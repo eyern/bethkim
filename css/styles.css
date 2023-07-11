@@ -16,5 +16,34 @@ body{
     color: #FF5829 !important;
     font-weight: bold !important;
 }
+#gallery .item{
+    text-align:center;
+    margin-bottom:30px;
+    font-size:12px;
+    }
+    #gallery .item h4{
+    font-size:16px;
+    margin-bottom:0;
+    }
+    
+    #gallery-fullwidth .gallery-item{
+    width:16.65%;
+    float:left;
+    }
+    
+    #gallery-fullwidth .gallery-item img{
+    width:100%;
+    }
+    
+    #gallery-isotope .item{
+        background:#333;
+        margin:0 10px 10px 0;
+        overflow:hidden;
+    }
+    
+    #gallery-isotope img{
+        width:100%;
+        height:auto;
+    }
 
 
